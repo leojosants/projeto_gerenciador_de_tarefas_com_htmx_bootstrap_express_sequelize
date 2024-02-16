@@ -23,7 +23,7 @@
   - Linguagem de marcação para a World Wide Web e é uma tecnologia chave da Internet.
   
 - CSS3:
-  - Linguagem de estilização para projetos web, que permite alterar dibersos aspectos no design do layout da página.
+  - Linguagem de estilização para projetos web, que permite alterar diversos aspectos no design do layout da página.
 
 - JavaScript:
   - Linguagem de programação que permite dinamicidade através da manipulação de elementos HTML.
