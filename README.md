@@ -1,5 +1,7 @@
 # Gerenciador de Tarefas
 
+Gerenciador de tarefas que permite ao usuário adicionar, consultar, atualizar e deletar tarefas.
+
 ## Tecnologias utilizadas
 
 - HTMX:
